@@ -13,17 +13,7 @@ Subtle Background Animations: Incorporates a gentle, non-distracting background 
 
 Professional Journey Timeline: A dedicated section detailing my professional experience in a clear, chronological timeline format, emphasizing achievements and skill development.
 
-Project Showcase: In-depth descriptions of key projects, including:
-
-Urban Housing Data Integration: Data collection, cleaning, and SQL-based integration using Python.
-
-Sales Insights Dashboard: Data analysis and visualization with SQL and Power BI.
-
-Student Management System: Full-stack web application development with React, Node.js, MongoDB, and Express.
-
-Stock Price Predictor: Machine learning model using Python, TensorFlow, and NumPy for time series forecasting.
-
-E-Commerce Analytics Platform: Real-time analytics and inventory management with React, Python, PostgreSQL, and Docker.
+Project Showcase: In-depth descriptions of key projects.
 
 Responsive Design: Fully optimized for viewing across all devices (desktop, tablet, mobile).
 
@@ -39,7 +29,7 @@ To run this website locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-portfolio-repo.git
+git clone https://github.com/ashokgaire3/Portfolio.git
 cd your-portfolio-repo
 
 Open index.html:
@@ -67,4 +57,4 @@ your-portfolio-repo/
 
 🌐 Live Demo
 Explore the live version of my portfolio here:
-https://your-portfolio-live-url.com (Replace with your actual live URL)
+https://ashokgaire3.github.io/Portfolio/
